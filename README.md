@@ -6,6 +6,9 @@ This project is a simple rails for the backend api that returns messages from a 
 
 - Ruby on Rails
 
+## Link to React App
+[React-Front-End](https://github.com/mmsesay/hello-react-front-end)
+
 ## Getting Started
 
 - **To get a local copy of the repository please run the following commands on your terminal:**
